@@ -1,0 +1,7 @@
+print("Abacaxi")
+print("Morango")
+print("Banana")
+print("Maçã")
+print("Abacate")
+print("Mexerica")
+print("Uva")
